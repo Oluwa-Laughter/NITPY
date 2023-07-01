@@ -1,7 +1,6 @@
 # Comparison Operator
 print(4 == 5)
 print("a" == 65)  # based of ASCII
-print("1" >= 1)
 print(1 <= 1)
 print(0.1 + 0.2)
 
